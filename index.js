@@ -1,4 +1,4 @@
-// function harmLessRansomNote (noteText, magazineText) {
+`\  a// function harmLessRansomNote (noteText, magazineText) {
 
 // }
 
@@ -26,3 +26,28 @@ function logALl(array) {
 logAll ([1,2,3,4,5]);
 logAll ([1,2,3,4,5,6]);
 logAll ([1,2,3,4,5,6,7]);
+
+
+
+// function binarySearch(array, key) {
+//   var low = 0;
+//   var high = array.length -1;
+//   var mid;
+//   var element;
+//   while (low<= high) {
+//     mid = Math.floor ((low+high) / 2, 10);
+//     elemtn = array[mid];
+//     if (element < Key) {
+//       low = mid + 1;
+//       else if (element>key) {
+//         high = mid-1;
+//       }else {
+//         return mid;
+//       }
+//     }
+//     return - 1;
+//   }
+//  }
+
+// }
+
